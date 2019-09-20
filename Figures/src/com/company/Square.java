@@ -9,11 +9,11 @@ public class Square {
         this.size = size;
     }
 
-    public double Area() {
+    public double area() {
         return size * size;
     }
 
-    public double Perimeter() {
+    public double perimeter() {
         return size * 4;
     }
 }
